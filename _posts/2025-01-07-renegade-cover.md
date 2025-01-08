@@ -7,7 +7,7 @@ feature_image: images/renegadesession.png
 tags: [music, audio, projects]
 ---
 
-*If you just want to hear the final recording, [here it is]("https://www.youtube.com/watch?v=Orf_wNaLe0E"). Thank you for checking this out!*
+*If you just want to hear the final recording, [here it is]("https://www.youtube.com/watch?v=Orf_wNaLe0E/"). Thank you for checking this out!*
 
 # The Spark
 This past semester, I had the pleasure of taking COM 306: Audio Media as an introduction course to Pro Tools and audio. Throught the semester, we covered audio fundementials, the basics of Pro Tools, sound for film and radio, mixing, MIDI, and so much more. The final project in the class was to make a voco-centric mix of at least 4 tracks and it had to be 4-10 minutes long.
