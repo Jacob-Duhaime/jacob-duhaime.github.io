@@ -18,10 +18,10 @@ description: "Audio, Software, Math, and everything in between"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "jacob-duhaime.github.io"
+url: "https://jacobduhaime.com"
 
 # Favicon
-favicon: images/logovectorjd.png
+favicon: images/noteblock1.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -32,15 +32,11 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus:
 
 # Colors
 accent_color: '#a459ff'

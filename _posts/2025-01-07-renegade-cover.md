@@ -3,7 +3,7 @@ layout: post
 title: "Recreating a Taylor Swift, Aaron Dessner, and Bon Iver hidden gem"
 description: "The process of recreating the Big Red Machine and Taylor Swift track 'Renegade'"
 date: 2025-01-07
-feature_image: images/fortnite.JPG
+feature_image: images/renegadesession.png
 tags: [music, audio, projects]
 ---
 
