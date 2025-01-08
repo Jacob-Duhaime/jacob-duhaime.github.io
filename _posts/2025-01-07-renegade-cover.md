@@ -14,6 +14,8 @@ This past semester, I had the pleasure of taking COM 306: Audio Media as an intr
 
 The inspiration for my project came from the YouTube channel [AudioHaze](https://www.youtube.com/@AudioHaze). He has a video series called [Forensic Productions](https://www.youtube.com/playlist?list=PLIKeAXPgXUDtxCkcgiUH06iqnQyGAIdRx) where he dives deep into a song and tries to recreate it as accurately as possible in a home studio environment. I fell in love with this series and decided I wanted to do my own recreation of a song that I love to gain a deeper appreciation of what it took to put the song togther.
 
+<!--more-->
+
 My track of choice was "Renegade", by Big Red Machine and Taylor Swift. I have been a Taylor Swift fan my whole life and, in my opinion, this is the era of some of her strongest works to date. I loved the warmth and energy of the original record and I was confident I could recreate it using only the resources I had available to me.
 
 # The Original Recording
