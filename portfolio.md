@@ -3,10 +3,10 @@ layout: page
 title: Porfolio
 description: Collection of projects I created or worked on.
 ---
-# Audio Projects
+## Audio Projects
 **Renegade** - Jacob Duhaime - [Listen Here](https://www.youtube.com/watch?v=Orf_wNaLe0E)
 
-# Arragements
+## Arragements
 
 **Evergreen** - SMATB w/ Soloist - [Live Performance](https://www.youtube.com/live/3TwBiZtHJ8Q?si=N6_b8j68LlsHH5vR&t=4236)
 
@@ -18,5 +18,5 @@ description: Collection of projects I created or worked on.
 
 **Tears Dry On Their Own** - SMATB w/ Soloist
 
-# Software Projects
+## Software Projects
 **Women Composer Exposure** - Database Project - [View Database Map](https://storymaps.arcgis.com/stories/ad88d7df6b094072bd741f2ff18d0751)
