@@ -5,7 +5,7 @@ description: Collection of projects I created or worked on.
 ---
 ---
 ## Audio Projects:
-**Renegade** - Jacob Duhaime - [Listen Here](https://www.youtube.com/watch?v=Orf_wNaLe0E)
+**Renegade** - Big Red Machine & Taylor Swift Track Recreation - [Listen Here](https://www.youtube.com/watch?v=Orf_wNaLe0E) - [Article](https://jacobduhaime.com/renegade-cover)
 
 ## Arrangements:
 

@@ -56,6 +56,8 @@ Since this was a class project, I only allowed myself to use plugins that came s
 
 One plugin that was super helpful for lead vocals was Slate Digital's Fresh Air. It is essentially a compression algorithm but with a super friendly interface that is designed to specifically add more "air" to an input in a super tasteful way. I have to imagine it is used by pop producers all the time to get that characteristic vocal tone.
 
+I also found myself using a lot of band-pass filters in this project. On my vocals specifically, trimming a lot of the high and low ends helped me get the distant, hollow tone I was aiming for. Using EQ's to change tones super drastically is definitely not something I am fully comfortable with and there are spots where I could be a lot more aggressive with my cuts.
+
 We have not talked much about mastering in my audio class so my master chain is pretty barebones. I used the free mastering compressor TDR Kotelnikov to add some warmth and richness. From an AudioHaze track recreation of Bon Iver's "Flume", I learned that Bon Iver's producer frequently uses a Pultec EQ plugin on the master chain so I used the Pro Tools included Pultec plugin to accentuate the focal points of my mix.
 
 I think the most room for improvement comes in the form of automation. I am still not totally comfortable working with automation yet and I much prefer changing clip volumes or making a separate track to change the effects on a clip throughout a record. Automation would allow me to finely tune dynamics, pan sounds from left to right, change how distant or up front something sounds, and so much more.
