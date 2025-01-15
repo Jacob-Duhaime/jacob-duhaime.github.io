@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jacob Duhaime
+title:
 description: 
 feature_image: images/aboutpage1.jpg
 ---
