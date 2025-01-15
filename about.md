@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: Jacob Duhaime
 description: 
 feature_image: images/aboutpage1.jpg
 ---
