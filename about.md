@@ -2,17 +2,9 @@
 layout: page
 title: About this blog
 description: 
-feature_image: images/aboutpage.jpg
+feature_image: images/aboutpage1.jpg
 ---
 
-**Jacob Duhaime** is a
+**Jacob Duhaime** is a Computer Science and Mathematics Student from the University of Rhode Island. He is also a lifelong Musician and aspiring Audio Engineer.
 
-well...
-
-something
-
-I'll fill this out eventually, I promise
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-*Thank You for reading!*
+#### jacob@jacobduhaime.com
