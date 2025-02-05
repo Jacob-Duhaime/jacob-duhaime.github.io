@@ -5,6 +5,7 @@ description: Collection of projects I created or worked on.
 ---
 ---
 ## Audio Projects:
+**erase me** obp. Lizzy McAlpine - The Rhody Rhapsodies - [Listen Here](https://www.youtube.com/watch?v=wZox9goacFc)
 **Renegade** - Big Red Machine & Taylor Swift Track Recreation - [Listen Here](https://www.youtube.com/watch?v=Orf_wNaLe0E) - [Article](https://jacobduhaime.com/renegade-cover)
 
 ## Arrangements:
