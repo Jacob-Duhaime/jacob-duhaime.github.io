@@ -5,6 +5,6 @@ description:
 feature_image: images/aboutpage1.jpg
 ---
 
-**Jacob Duhaime** is a Computer Science and Mathematics Student from the University of Rhode Island. He is also a lifelong Musician and aspiring Audio Engineer.
+Hello! I am **Jacob Duhaime**, a Software Engineer, Audio Engineer, and Musician with backgrounds in Computer Science, Mathematics, and Information Technology. My interests span the worlds of music, audio, engineering, and science with the ultimate goal of making the world a better place by sharing what I love with the world.
 
 #### jacob@jacobduhaime.com

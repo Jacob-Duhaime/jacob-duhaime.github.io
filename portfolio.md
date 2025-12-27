@@ -26,9 +26,9 @@ description: Collection of projects I created or worked on.
 
 **It's Called: Freefall** opb. Rainbow Kitten Surprise - SMATB - [Live Performance](https://www.youtube.com/live/OgYp_3uL1PY?si=1UeCO0uAn1VrczMj&t=2631)
 
-**Plant the Garden** opb. Melt - SMATB w/ Soloist
+**Plant the Garden** opb. Melt - SMATB w/ Soloist -  [Recording](https://youtu.be/gsYYWUGlbw0?si=bPwTEC8k1jel0IyP) 
 
-**Sway (Quién será)** obp. Dean Martin - SMATB w/ Soloist
+**Sway (Quién será)** obp. Dean Martin - SMATB w/ Soloist [Live Performance](https://www.youtube.com/live/PD10INm0R7E?si=o3RsMD5ksZ-iRs5V&t=920)
 
 **Tales of Dominica** obp. Lil Nas X- SATB w/ Soloist
 
